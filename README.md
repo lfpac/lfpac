@@ -1,16 +1,23 @@
-## Hi there 👋
+# Olá, eu sou o Luiz Felipe Pachêco! 👋
 
-<!--
-**lfpac/lfpac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre Mim
+Sou um QA Engineer focado em construir suítes de testes robustas e eficientes. Atualmente, atuo na Itecsa (Grupo Benner), garantindo a qualidade de sistemas de gestão de saúde de alta complexidade. Minha paixão é automatizar o "chato" para garantir que o "crítico" funcione perfeitamente.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Minha Caixa de Ferramentas (Stack & Tools)
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | JavaScript, Python, SQL (PL/SQL) |
+| **Web Automation** | Cypress |
+| **Mobile Automation** | Appium |
+| **API Testing** | Postman, REST APIs |
+| **Frameworks/BDD** | Robot Framework, Cucumber (Gherkin) |
+| **CI/CD & DevOps** | GitHub Actions, Git |
+
+---
+
+### 📫 Vamos Conectar?
+
+[LinkedIn](SEU_LINK_LINKEDIN) | [E-mail](SEU_EMAIL) | [Medium (Se tiver blog)](SEU_LINK_MEDIUM)
