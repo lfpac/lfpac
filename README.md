@@ -20,4 +20,4 @@ Sou um QA Engineer focado em construir suítes de testes robustas e eficientes. 
 
 ### 📫 Vamos Conectar?
 
-[LinkedIn](SEU_LINK_LINKEDIN) | [E-mail](SEU_EMAIL) | [Medium (Se tiver blog)](SEU_LINK_MEDIUM)
+[LinkedIn](https://bit.ly/3JQrXtz%7C) | [E-mail](fpachecolink@gmail.com)
