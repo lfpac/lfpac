@@ -1,7 +1,7 @@
 # Olá, eu sou o Luiz Felipe Pachêco! 👋
 
 ### 👨‍💻 Sobre Mim
-Sou um QA Engineer focado em construir suítes de testes robustas e eficientes. Atualmente, atuo na Itecsa (Grupo Benner), garantindo a qualidade de sistemas de gestão de saúde de alta complexidade. Minha paixão é automatizar o "chato" para garantir que o "crítico" funcione perfeitamente.
+Sou um QA Engineer focado em construir suítes de testes robustas e eficientes. Atualmente, atuo na Itecsa (Grupo Benner), garantindo a qualidade de sistemas de gestão de saúde de alta complexidade. Minha função é automatizar o "chato" para garantir que o "crítico" funcione perfeitamente.
 
 ---
 
